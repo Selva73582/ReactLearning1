@@ -4,7 +4,7 @@ Welcome to my React learning project! In this project, I've implemented a simple
 
 ## Demo
 
-Check out the live demo [here](https://65eb002adcd6138563f0302f--lighthearted-conkies-af23a3.netlify.app/).
+Check out the live demo [here](https://65eb026ddac4541f37f50c2b--reactlearning001.netlify.app/).
 
 ## What I've Learned
 
@@ -12,7 +12,7 @@ Check out the live demo [here](https://65eb002adcd6138563f0302f--lighthearted-co
 
 - **File Handling in React:** Explored basic file handling techniques within a React application.
 
-- **Hosting in Netlify:** Deployed the project on Netlify for easy access and sharing. The live demo is hosted [here](https://65eb002adcd6138563f0302f--lighthearted-conkies-af23a3.netlify.app/).
+- **Hosting in Netlify:** Deployed the project on Netlify for easy access and sharing. The live demo is hosted [here](https://65eb026ddac4541f37f50c2b--reactlearning001.netlify.app/).
 
 ## Getting Started
 
